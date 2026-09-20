@@ -4,3 +4,6 @@
 !.env.example
 Thumbs.db
 .DS_Store
+
+# 课程视频与字幕仅保存在本地
+/课程视频/
