@@ -1,0 +1,2039 @@
+{
+  "root": ".",
+  "start": "2026-07-01",
+  "asof": "2026-09-20",
+  "latest_video": "2026-09-18",
+  "video_count": 60,
+  "day_count": 58,
+  "method_count": 11,
+  "common_framework_count": 1,
+  "methods": [
+    {
+      "id": "00",
+      "name": "历史类比与仓位管理",
+      "kind": "通用判断框架",
+      "folder": "00_历史类比与仓位管理",
+      "summary_file": "00_历史类比与仓位管理/手法总结.md",
+      "cases_file": "00_历史类比与仓位管理/案例索引.md",
+      "video_ids": [
+        "BV11BM466Edj",
+        "BV1cZMg6XEto",
+        "BV1AaN162Eu9",
+        "BV1kLKn65EnB",
+        "BV1EaKm6EEtL",
+        "BV1pMKt6AEwh",
+        "BV1HeKb6NE45",
+        "BV1WNgr67Esm",
+        "BV1EBgY6QEvS",
+        "BV1YF3c6HE3m",
+        "BV1sv3C6tEpN",
+        "BV1Qfub6ZEFR",
+        "BV1CNgn6dESC",
+        "BV1YJgN6cES4",
+        "BV14jbv6nEdw",
+        "BV1qR876sEdR",
+        "BV1sybf6EEp4",
+        "BV12D8q6ZEwF",
+        "BV1Eo896fEP2",
+        "BV1sitA6WE2N",
+        "BV1DntG6sEMY",
+        "BV1zFtd6ZE2v",
+        "BV1rGbP6QEwE",
+        "BV1tQYx6uERM",
+        "BV1NNYM6mEpS",
+        "BV1apYL6EEoc",
+        "BV1sqYi68ESj",
+        "BV1jWYk6YE1m",
+        "BV1Vde76tE33",
+        "BV1tfew6gE4v"
+      ]
+    },
+    {
+      "id": "01",
+      "name": "急跌低吸（掏肛）",
+      "kind": "交易手法",
+      "folder": "01_急跌低吸_掏肛",
+      "summary_file": "01_急跌低吸_掏肛/手法总结.md",
+      "cases_file": "01_急跌低吸_掏肛/案例索引.md",
+      "video_ids": [
+        "BV1JETi6HEKG",
+        "BV1PMTs68Eyt",
+        "BV1QrTQ6DEHk",
+        "BV1SvMJ6bEoQ",
+        "BV1d9N76oEXv",
+        "BV1AaN162Eu9",
+        "BV1LJN96oErm",
+        "BV1STKV6qEZa",
+        "BV1kLKn65EnB",
+        "BV1EaKm6EEtL",
+        "BV1pMKt6AEwh",
+        "BV1S73t6REpi",
+        "BV1pVGA65EJM",
+        "BV1FfMk6VE7v",
+        "BV1Qfub6ZEFR",
+        "BV1oWuq69Ecf",
+        "BV1yg8v67E8K",
+        "BV1GAhV6qEuD",
+        "BV1Eo896fEP2",
+        "BV1ijtt6VEhC",
+        "BV1DntG6sEMY",
+        "BV1zFtd6ZE2v",
+        "BV1nnti6kEdT",
+        "BV1rGbP6QEwE",
+        "BV1i6b56VEDR",
+        "BV1apYL6EEoc",
+        "BV1sqYi68ESj",
+        "BV1jWYk6YE1m",
+        "BV1Vde76tE33",
+        "BV1tfew6gE4v",
+        "BV12eeg6bEd2"
+      ]
+    },
+    {
+      "id": "02",
+      "name": "连续杀跌反核",
+      "kind": "交易手法",
+      "folder": "02_连续杀跌反核",
+      "summary_file": "02_连续杀跌反核/手法总结.md",
+      "cases_file": "02_连续杀跌反核/案例索引.md",
+      "video_ids": [
+        "BV1eSNe6vEen",
+        "BV1STKV6qEZa",
+        "BV1pMKt6AEwh",
+        "BV1WNgr67Esm",
+        "BV1VPuw6DEqk",
+        "BV1FfMk6VE7v",
+        "BV1Ydu76cEw5",
+        "BV1zv8u6NEt1",
+        "BV1sybf6EEp4",
+        "BV1yg8v67E8K",
+        "BV1GAhV6qEuD",
+        "BV1DntG6sEMY",
+        "BV192tJ6SEmZ",
+        "BV1sqYi68ESj"
+      ]
+    },
+    {
+      "id": "03",
+      "name": "中证2000极弱修复",
+      "kind": "交易手法",
+      "folder": "03_中证2000极弱修复",
+      "summary_file": "03_中证2000极弱修复/手法总结.md",
+      "cases_file": "03_中证2000极弱修复/案例索引.md",
+      "video_ids": [
+        "BV1kLKn65EnB",
+        "BV1pMKt6AEwh",
+        "BV1HeKb6NE45",
+        "BV1WNgr67Esm",
+        "BV1tRgQ6XEUU",
+        "BV1YF3c6HE3m",
+        "BV1ng3i6aEwr",
+        "BV1sv3C6tEpN",
+        "BV13YM96fE11",
+        "BV1VPuw6DEqk",
+        "BV1FfMk6VE7v",
+        "BV1Ydu76cEw5",
+        "BV1Qfub6ZEFR",
+        "BV1oZud6VEMD",
+        "BV1oWuq69Ecf",
+        "BV1xbgG6MEzp",
+        "BV1CNgn6dESC",
+        "BV1YJgN6cES4",
+        "BV14jbv6nEdw",
+        "BV1zv8u6NEt1",
+        "BV1qR876sEdR",
+        "BV1sybf6EEp4"
+      ]
+    },
+    {
+      "id": "04",
+      "name": "板块轮动",
+      "kind": "交易手法",
+      "folder": "04_板块轮动",
+      "summary_file": "04_板块轮动/手法总结.md",
+      "cases_file": "04_板块轮动/案例索引.md",
+      "video_ids": [
+        "BV1JETi6HEKG",
+        "BV1XoTj6QEjw",
+        "BV11BM466Edj",
+        "BV1eSNe6vEen",
+        "BV1tRgQ6XEUU",
+        "BV1sv3C6tEpN",
+        "BV1S73t6REpi",
+        "BV13YM96fE11",
+        "BV1DntG6sEMY",
+        "BV1zFtd6ZE2v",
+        "BV1nnti6kEdT",
+        "BV1rGbP6QEwE",
+        "BV1i6b56VEDR",
+        "BV1NNYM6mEpS",
+        "BV1jWYk6YE1m",
+        "BV1Vde76tE33"
+      ]
+    },
+    {
+      "id": "05",
+      "name": "消息题材交易",
+      "kind": "交易手法",
+      "folder": "05_消息题材交易",
+      "summary_file": "05_消息题材交易/手法总结.md",
+      "cases_file": "05_消息题材交易/案例索引.md",
+      "video_ids": [
+        "BV1d9N76oEXv",
+        "BV1eSNe6vEen",
+        "BV1Ydu76cEw5",
+        "BV1oZud6VEMD",
+        "BV1zv8u6NEt1",
+        "BV1sybf6EEp4",
+        "BV12D8q6ZEwF",
+        "BV1zFtd6ZE2v",
+        "BV1nnti6kEdT",
+        "BV1jWYk6YE1m"
+      ]
+    },
+    {
+      "id": "06",
+      "name": "利空落地与解禁",
+      "kind": "交易手法",
+      "folder": "06_利空落地与解禁",
+      "summary_file": "06_利空落地与解禁/手法总结.md",
+      "cases_file": "06_利空落地与解禁/案例索引.md",
+      "video_ids": [
+        "BV1qR876sEdR",
+        "BV1yg8v67E8K",
+        "BV1Eo896fEP2",
+        "BV1iUbT69EYB",
+        "BV1i6b56VEDR",
+        "BV1tQYx6uERM",
+        "BV1tfew6gE4v",
+        "BV12eeg6bEd2"
+      ]
+    },
+    {
+      "id": "07",
+      "name": "压异动",
+      "kind": "交易手法",
+      "folder": "07_压异动",
+      "summary_file": "07_压异动/手法总结.md",
+      "cases_file": "07_压异动/案例索引.md",
+      "video_ids": [
+        "BV1Eo896fEP2",
+        "BV1sitA6WE2N",
+        "BV1ijtt6VEhC",
+        "BV192tJ6SEmZ",
+        "BV1tQYx6uERM",
+        "BV1NNYM6mEpS",
+        "BV1Vde76tE33"
+      ]
+    },
+    {
+      "id": "08",
+      "name": "白银LOF溢价交易",
+      "kind": "交易手法",
+      "folder": "08_白银LOF溢价交易",
+      "summary_file": "08_白银LOF溢价交易/手法总结.md",
+      "cases_file": "08_白银LOF溢价交易/案例索引.md",
+      "video_ids": [
+        "BV1xbgG6MEzp",
+        "BV1CNgn6dESC",
+        "BV1YJgN6cES4"
+      ]
+    },
+    {
+      "id": "09",
+      "name": "底仓做T",
+      "kind": "执行手法",
+      "folder": "09_底仓做T",
+      "summary_file": "09_底仓做T/手法总结.md",
+      "cases_file": "09_底仓做T/案例索引.md",
+      "video_ids": [
+        "BV1JETi6HEKG",
+        "BV1QrTQ6DEHk",
+        "BV11BM466Edj",
+        "BV1cZMg6XEto",
+        "BV1LJN96oErm",
+        "BV1STKV6qEZa",
+        "BV1EaKm6EEtL",
+        "BV1WNgr67Esm",
+        "BV1EBgY6QEvS",
+        "BV1sv3C6tEpN",
+        "BV1S73t6REpi",
+        "BV1pVGA65EJM",
+        "BV13YM96fE11",
+        "BV1VPuw6DEqk",
+        "BV1oZud6VEMD",
+        "BV1oWuq69Ecf",
+        "BV1xbgG6MEzp",
+        "BV1CNgn6dESC",
+        "BV1GAhV6qEuD",
+        "BV192tJ6SEmZ",
+        "BV1tQYx6uERM"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "可转债日内交易",
+      "kind": "讨论中的工具选择",
+      "folder": "10_可转债日内交易",
+      "summary_file": "10_可转债日内交易/手法总结.md",
+      "cases_file": "10_可转债日内交易/案例索引.md",
+      "video_ids": [
+        "BV1XoTj6QEjw"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "新股首日博弈",
+      "kind": "尝试与反思",
+      "folder": "11_新股首日博弈",
+      "summary_file": "11_新股首日博弈/手法总结.md",
+      "cases_file": "11_新股首日博弈/案例索引.md",
+      "video_ids": [
+        "BV1tRgQ6XEUU",
+        "BV1EBgY6QEvS",
+        "BV1YF3c6HE3m",
+        "BV1ng3i6aEwr",
+        "BV1S73t6REpi",
+        "BV1zv8u6NEt1",
+        "BV1qR876sEdR",
+        "BV1sybf6EEp4",
+        "BV12D8q6ZEwF",
+        "BV1yg8v67E8K",
+        "BV1NNYM6mEpS",
+        "BV1jWYk6YE1m",
+        "BV1Moe16hEgL"
+      ]
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-07-01",
+      "video_ids": [
+        "BV1JETi6HEKG"
+      ],
+      "file": "每日总结.md",
+      "line": 7,
+      "operation": "科技冲高减仓，转创新药；午后低吸科技与证券。",
+      "method": "轮动、低吸、做T",
+      "knowledge": "备选方向要看实际强弱，不能预设一定对冲。",
+      "anchor": "d-2026-07-01"
+    },
+    {
+      "date": "2026-07-02",
+      "video_ids": [
+        "BV1XoTj6QEjw"
+      ],
+      "file": "每日总结.md",
+      "line": 8,
+      "operation": "风华反抽减亏卖出；证券未对冲下跌，讨论板块转债。",
+      "method": "轮动、转债日内交易（讨论）",
+      "knowledge": "冲高回落时，还要考虑利润能否及时兑现。",
+      "anchor": "d-2026-07-02"
+    },
+    {
+      "date": "2026-07-03",
+      "video_ids": [
+        "BV1PMTs68Eyt"
+      ],
+      "file": "每日总结.md",
+      "line": 9,
+      "operation": "低吸东山、兆易、深科技、风华；东山强，风华回落。",
+      "method": "急跌低吸",
+      "knowledge": "同样低吸，标的地位与强弱决定修复质量。",
+      "anchor": "d-2026-07-03"
+    },
+    {
+      "date": "2026-07-06",
+      "video_ids": [
+        "BV1QrTQ6DEHk"
+      ],
+      "file": "每日总结.md",
+      "line": 10,
+      "operation": "兆易先卖后接，继续下跌又加仓，反弹不足。",
+      "method": "低吸、做T",
+      "knowledge": "选弱标的时，频繁做T和加仓未必能补救。",
+      "anchor": "d-2026-07-06"
+    },
+    {
+      "date": "2026-07-07",
+      "video_ids": [
+        "BV11BM466Edj"
+      ],
+      "file": "每日总结.md",
+      "line": 11,
+      "operation": "分批卖兆易、冲红减芯片；韩国走弱后不接回。",
+      "method": "轮动、做T",
+      "knowledge": "外围走弱时，接回计划可以取消。",
+      "anchor": "d-2026-07-07"
+    },
+    {
+      "date": "2026-07-08",
+      "video_ids": [
+        "BV1cZMg6XEto"
+      ],
+      "file": "每日总结.md",
+      "line": 12,
+      "operation": "芯片冲高减仓，回落未接；观察韩国午后跳水。",
+      "method": "做T、仓位管理",
+      "knowledge": "卖出后不必强求接回，留现金也是选择。",
+      "anchor": "d-2026-07-08"
+    },
+    {
+      "date": "2026-07-09",
+      "video_ids": [
+        "BV1SvMJ6bEoQ"
+      ],
+      "file": "每日总结.md",
+      "line": 13,
+      "operation": "自述恐慌时低吸亨通；关注东山反弹强度。",
+      "method": "急跌低吸",
+      "knowledge": "恐慌买点要结合板块核心和实际修复强度。",
+      "anchor": "d-2026-07-09"
+    },
+    {
+      "date": "2026-07-10",
+      "video_ids": [
+        "BV1d9N76oEXv"
+      ],
+      "file": "每日总结.md",
+      "line": 14,
+      "operation": "亨通冲高卖；买再升冲高回落，海兰信未成交。",
+      "method": "低吸、消息题材",
+      "knowledge": "题材判断正确，不等于买到后就能兑现。",
+      "anchor": "d-2026-07-10"
+    },
+    {
+      "date": "2026-07-13",
+      "video_ids": [
+        "BV1AaN162Eu9"
+      ],
+      "file": "每日总结.md",
+      "line": 15,
+      "operation": "买芯片相关ETF、长电、中船特气，随后继续跌。",
+      "method": "弱市低吸",
+      "knowledge": "相对便宜不代表卖压结束，弱市容易买早。",
+      "anchor": "d-2026-07-13"
+    },
+    {
+      "date": "2026-07-14",
+      "video_ids": [
+        "BV1LJN96oErm"
+      ],
+      "file": "每日总结.md",
+      "line": 16,
+      "operation": "中船先卖，急跌再接回做T；计划继续冲高减仓。",
+      "method": "低吸、做T",
+      "knowledge": "先判断震荡还是持续修复，再决定持有周期。",
+      "anchor": "d-2026-07-14"
+    },
+    {
+      "date": "2026-07-15",
+      "video_ids": [
+        "BV1eSNe6vEen"
+      ],
+      "file": "每日总结.md",
+      "line": 17,
+      "operation": "卖芯片ETF、中船；买上海港湾、巨力做航天反核。",
+      "method": "反核、轮动",
+      "knowledge": "同题材反核也有强弱差，不能只看题材一致。",
+      "anchor": "d-2026-07-15"
+    },
+    {
+      "date": "2026-07-16",
+      "video_ids": [
+        "BV1STKV6qEZa"
+      ],
+      "file": "每日总结.md",
+      "line": 18,
+      "operation": "航天反核兑现；东山低挂未成、卖旧仓；小仓吸芯片。",
+      "method": "反核、低吸、做T",
+      "knowledge": "未成交计划与卖旧仓分开记录。",
+      "anchor": "d-2026-07-16"
+    },
+    {
+      "date": "2026-07-17",
+      "video_ids": [
+        "BV1kLKn65EnB"
+      ],
+      "file": "每日总结.md",
+      "line": 19,
+      "operation": "早盘减、午后接；关注德明利跌停压力解除。",
+      "method": "历史择时、低吸",
+      "knowledge": "事前类比2024年初，修复要观察关键卖压。",
+      "anchor": "d-2026-07-17"
+    },
+    {
+      "date": "2026-07-20",
+      "video_ids": [
+        "BV1EaKm6EEtL"
+      ],
+      "file": "每日总结.md",
+      "line": 20,
+      "operation": "高开打乱低吸计划，买入成本偏高；拟次日做T。",
+      "method": "低吸、做T（计划）",
+      "knowledge": "开盘情景改变时，原定买点要重新评估。",
+      "anchor": "d-2026-07-20"
+    },
+    {
+      "date": "2026-07-21",
+      "video_ids": [
+        "BV1pMKt6AEwh",
+        "BV1HeKb6NE45"
+      ],
+      "file": "每日总结.md",
+      "line": 21,
+      "operation": "自述买铜冠、东山、中证2000等；指数仓继续持有。",
+      "method": "反核、中证2000修复",
+      "knowledge": "区分极弱后强修复与阴跌反抽，持有节奏不同。",
+      "anchor": "d-2026-07-21"
+    },
+    {
+      "date": "2026-07-22",
+      "video_ids": [
+        "BV1WNgr67Esm"
+      ],
+      "file": "每日总结.md",
+      "line": 22,
+      "operation": "铜冠分批卖，东山竞价卖，芯片午前卖；指数做T。",
+      "method": "反核兑现、指数修复、做T",
+      "knowledge": "个股反弹与指数修复可以使用不同退出节奏。",
+      "anchor": "d-2026-07-22"
+    },
+    {
+      "date": "2026-07-23",
+      "video_ids": [
+        "BV1tRgQ6XEUU"
+      ],
+      "file": "每日总结.md",
+      "line": 23,
+      "operation": "偏中证2000小票修复；不愿追长鑫首日竞价。",
+      "method": "指数修复、风格轮动",
+      "knowledge": "小盘与科技大票的阶段不同，不能套同一路径。",
+      "anchor": "d-2026-07-23"
+    },
+    {
+      "date": "2026-07-24",
+      "video_ids": [
+        "BV1EBgY6QEvS"
+      ],
+      "file": "每日总结.md",
+      "line": 24,
+      "operation": "冲高减约一半相关仓位；上午卖后不急于接回。",
+      "method": "减仓、做T",
+      "knowledge": "外围下跌与上市事件叠加时，接回更需等待。",
+      "anchor": "d-2026-07-24"
+    },
+    {
+      "date": "2026-07-27",
+      "video_ids": [
+        "BV1YF3c6HE3m"
+      ],
+      "file": "每日总结.md",
+      "line": 25,
+      "operation": "长鑫急跌想买但未买到；继续按修复看中证2000。",
+      "method": "新股观察、指数修复",
+      "knowledge": "别只锚定原挂价，要重估变化后的机会与损失。",
+      "anchor": "d-2026-07-27"
+    },
+    {
+      "date": "2026-07-28",
+      "video_ids": [
+        "BV1ng3i6aEwr"
+      ],
+      "file": "每日总结.md",
+      "line": 26,
+      "operation": "长鑫低开不足未买；海立少量成交；指数未加仓。",
+      "method": "指数修复、新股观察",
+      "knowledge": "没到计划条件时可以不交易。",
+      "anchor": "d-2026-07-28"
+    },
+    {
+      "date": "2026-07-29",
+      "video_ids": [
+        "BV1sv3C6tEpN"
+      ],
+      "file": "每日总结.md",
+      "line": 27,
+      "operation": "分批低吸芯片，押外围修复；继续偏中证2000弹性。",
+      "method": "低吸、风格轮动",
+      "knowledge": "科技外围修复与小盘修复是两条不同逻辑。",
+      "anchor": "d-2026-07-29"
+    },
+    {
+      "date": "2026-07-30",
+      "video_ids": [
+        "BV1S73t6REpi"
+      ],
+      "file": "每日总结.md",
+      "line": 28,
+      "operation": "芯片竞价减；买中际后继续跌，低点未再加。",
+      "method": "低吸、做T",
+      "knowledge": "低吸仍可能接早，资金流向解释要与事实分开。",
+      "anchor": "d-2026-07-30"
+    },
+    {
+      "date": "2026-07-31",
+      "video_ids": [
+        "BV1pVGA65EJM"
+      ],
+      "file": "每日总结.md",
+      "line": 29,
+      "operation": "中际冲高分两笔卖；追小票回落到成本。",
+      "method": "低吸兑现、做T",
+      "knowledge": "卖出结果与事后理想买点分开复盘。",
+      "anchor": "d-2026-07-31"
+    },
+    {
+      "date": "2026-08-03",
+      "video_ids": [
+        "BV13YM96fE11"
+      ],
+      "file": "每日总结.md",
+      "line": 30,
+      "operation": "中证2000冲高卖部分，未能低位接回。",
+      "method": "指数修复、做T",
+      "knowledge": "做T可能卖飞，并非必然增加收益。",
+      "anchor": "d-2026-08-03"
+    },
+    {
+      "date": "2026-08-04",
+      "video_ids": [
+        "BV1VPuw6DEqk"
+      ],
+      "file": "每日总结.md",
+      "line": 31,
+      "operation": "中证2000冲高卖、下午接回；部分反核未成交。",
+      "method": "指数修复、做T",
+      "knowledge": "区分完成的做T、未成交计划和策略设想。",
+      "anchor": "d-2026-08-04"
+    },
+    {
+      "date": "2026-08-05",
+      "video_ids": [
+        "BV1FfMk6VE7v"
+      ],
+      "file": "每日总结.md",
+      "line": 32,
+      "operation": "低吸创业黑马，参与中微、万集等小票。",
+      "method": "低吸、反核",
+      "knowledge": "个股急跌要结合小盘环境及同题材核心强弱。",
+      "anchor": "d-2026-08-05"
+    },
+    {
+      "date": "2026-08-06",
+      "video_ids": [
+        "BV1Ydu76cEw5"
+      ],
+      "file": "每日总结.md",
+      "line": 33,
+      "operation": "前日小票竞价退出；跟随数字货币、6G消息。",
+      "method": "反核兑现、消息题材",
+      "knowledge": "小盘极弱修复的经验不能直接套到大科技。",
+      "anchor": "d-2026-08-06"
+    },
+    {
+      "date": "2026-08-07",
+      "video_ids": [
+        "BV1Qfub6ZEFR"
+      ],
+      "file": "每日总结.md",
+      "line": 34,
+      "operation": "持中证2000，低吸联创光电；观察连阳后首阴。",
+      "method": "指数修复、低吸",
+      "knowledge": "首阴后看能否反包、是否转弱，再决定减仓。",
+      "anchor": "d-2026-08-07"
+    },
+    {
+      "date": "2026-08-10",
+      "video_ids": [
+        "BV1oZud6VEMD"
+      ],
+      "file": "每日总结.md",
+      "line": 35,
+      "operation": "留两成多中证2000底仓；云南利润回吐，接回中国电影。",
+      "method": "指数修复、做T、事件预期",
+      "knowledge": "底仓可留，短线兑现仍要防预期过高。",
+      "anchor": "d-2026-08-10"
+    },
+    {
+      "date": "2026-08-11",
+      "video_ids": [
+        "BV1oWuq69Ecf"
+      ],
+      "file": "每日总结.md",
+      "line": 36,
+      "operation": "中证2000冲红减后卖早；低吸神剑。",
+      "method": "指数修复、低吸",
+      "knowledge": "做T要接受卖早代价，讨论的机会不算实盘收益。",
+      "anchor": "d-2026-08-11"
+    },
+    {
+      "date": "2026-08-12",
+      "video_ids": [
+        "BV1xbgG6MEzp"
+      ],
+      "file": "每日总结.md",
+      "line": 37,
+      "operation": "追回中证2000减掉部分；低吸白银LOF。",
+      "method": "指数修复、LOF溢价",
+      "knowledge": "极弱后才偏中证2000；LOF溢价反弹要单独研究。",
+      "anchor": "d-2026-08-12"
+    },
+    {
+      "date": "2026-08-13",
+      "video_ids": [
+        "BV1CNgn6dESC"
+      ],
+      "file": "每日总结.md",
+      "line": 38,
+      "operation": "指数高开减追回仓；火炬冲板回落，白银获利退出。",
+      "method": "指数修复、LOF、做T",
+      "knowledge": "纸面涨幅与落袋收益不同，首阴提示阶段变化。",
+      "anchor": "d-2026-08-13"
+    },
+    {
+      "date": "2026-08-14",
+      "video_ids": [
+        "BV1YJgN6cES4"
+      ],
+      "file": "每日总结.md",
+      "line": 39,
+      "operation": "指数未反包，计划下周冲高减仓；再做白银反弹。",
+      "method": "指数修复、LOF",
+      "knowledge": "反包失败使他下调空间预期。",
+      "anchor": "d-2026-08-14"
+    },
+    {
+      "date": "2026-08-17",
+      "video_ids": [
+        "BV14jbv6nEdw"
+      ],
+      "file": "每日总结.md",
+      "line": 40,
+      "operation": "计划冲高减指数仓；火炬成本价出，买低位京东方。",
+      "method": "历史择时、指数修复",
+      "knowledge": "对照2024年2月修复后补涨；2022年起点和月份不同。",
+      "anchor": "d-2026-08-17"
+    },
+    {
+      "date": "2026-08-18",
+      "video_ids": [
+        "BV1zv8u6NEt1"
+      ],
+      "file": "每日总结.md",
+      "line": 41,
+      "operation": "卖云南、京东方及反核仓；买竞业达，观察宇树上市。",
+      "method": "兑现、消息题材、新股观察",
+      "knowledge": "上市前的参与计划，不能当作已成交。",
+      "anchor": "d-2026-08-18"
+    },
+    {
+      "date": "2026-08-19",
+      "video_ids": [
+        "BV1qR876sEdR"
+      ],
+      "file": "每日总结.md",
+      "line": 42,
+      "operation": "午间低吸中证2000未赚钱；次日补披露宇树首日亏损。",
+      "method": "指数低吸、新股博弈",
+      "knowledge": "事件兑现引发回落，低吸也未必立刻修复。",
+      "anchor": "d-2026-08-19"
+    },
+    {
+      "date": "2026-08-20",
+      "video_ids": [
+        "BV1sybf6EEp4"
+      ],
+      "file": "每日总结.md",
+      "line": 43,
+      "operation": "买康泰、华兰；卖天通及新增指数仓；披露宇树亏损。",
+      "method": "消息题材、月份减仓",
+      "knowledge": "因8月底至9月空间通常有限而减新增仓，不是固定必跌规律。",
+      "anchor": "d-2026-08-20"
+    },
+    {
+      "date": "2026-08-21",
+      "video_ids": [
+        "BV12D8q6ZEwF"
+      ],
+      "file": "每日总结.md",
+      "line": 44,
+      "operation": "康泰由前日浮盈转亏退出；宇树再买，拟冲高走。",
+      "method": "题材兑现、新股博弈",
+      "knowledge": "先评估最坏损失；当日浮盈不等于最终收益。",
+      "anchor": "d-2026-08-21"
+    },
+    {
+      "date": "2026-08-24",
+      "video_ids": [
+        "BV1yg8v67E8K"
+      ],
+      "file": "每日总结.md",
+      "line": 45,
+      "operation": "参与开开、宝泰隆；传智买早后加；宇树修复退出。",
+      "method": "低吸、反核、新股修复",
+      "knowledge": "连续跌停或利好兑现，都不自动形成可靠买点。",
+      "anchor": "d-2026-08-24"
+    },
+    {
+      "date": "2026-08-25",
+      "video_ids": [
+        "BV1GAhV6qEuD"
+      ],
+      "file": "每日总结.md",
+      "line": 46,
+      "operation": "开开卖早，传智分批卖；再低吸天通。",
+      "method": "反核兑现、低吸",
+      "knowledge": "板上大额卖出会影响隔日预期，但卖方身份未证实。",
+      "anchor": "d-2026-08-25"
+    },
+    {
+      "date": "2026-08-26",
+      "video_ids": [
+        "BV1Eo896fEP2"
+      ],
+      "file": "每日总结.md",
+      "line": 47,
+      "operation": "天通竞价卖；养元低吸弱，对神奇压异动谨慎。",
+      "method": "低吸、事件兑现、压异动观察",
+      "knowledge": "预期兑现后的票，不能只因跌多就接。",
+      "anchor": "d-2026-08-26"
+    },
+    {
+      "date": "2026-08-28",
+      "video_ids": [
+        "BV1sitA6WE2N"
+      ],
+      "file": "每日总结.md",
+      "line": 48,
+      "operation": "自述尾盘买金健米业，参考神奇压异动表现。",
+      "method": "压异动",
+      "knowledge": "收盘条件、竞价成交与停牌风险需分别判断。",
+      "anchor": "d-2026-08-28"
+    },
+    {
+      "date": "2026-08-31",
+      "video_ids": [
+        "BV1ijtt6VEhC"
+      ],
+      "file": "每日总结.md",
+      "line": 49,
+      "operation": "金健竞价卖得不佳；云南未买到，买长电。",
+      "method": "压异动兑现、低吸",
+      "knowledge": "竞价末端会变化，预期高开不等于实际好卖点。",
+      "anchor": "d-2026-08-31"
+    },
+    {
+      "date": "2026-09-01",
+      "video_ids": [
+        "BV1DntG6sEMY"
+      ],
+      "file": "每日总结.md",
+      "line": 50,
+      "operation": "反核百花、跟神奇，卖长电；光大嘉宝弱，未买锦龙。",
+      "method": "反核、轮动",
+      "knowledge": "低吸还要看隔日能否兑现，不只看当日反弹。",
+      "anchor": "d-2026-09-01"
+    },
+    {
+      "date": "2026-09-02",
+      "video_ids": [
+        "BV192tJ6SEmZ"
+      ],
+      "file": "每日总结.md",
+      "line": 51,
+      "operation": "百花竞价卖、不追接回；神奇分批卖；做铜缆、太极。",
+      "method": "反核兑现、做T",
+      "knowledge": "异动计算有分歧时，看正式公告。",
+      "anchor": "d-2026-09-02"
+    },
+    {
+      "date": "2026-09-03",
+      "video_ids": [
+        "BV1zFtd6ZE2v"
+      ],
+      "file": "每日总结.md",
+      "line": 52,
+      "operation": "卖金信诺、亏损退太极；低吸金健，自述两三成仓。",
+      "method": "低吸、消息题材、仓位管理",
+      "knowledge": "缩量配轻仓；标的同时看辨识度、消息与回落。",
+      "anchor": "d-2026-09-03"
+    },
+    {
+      "date": "2026-09-04",
+      "video_ids": [
+        "BV1nnti6kEdT"
+      ],
+      "file": "每日总结.md",
+      "line": 53,
+      "operation": "金健卖得不好，转买新赛、一鸣；科技持仓冲高出。",
+      "method": "轮动、低吸",
+      "knowledge": "方向相同仍要比强弱，先下杀可能提供较好成本。",
+      "anchor": "d-2026-09-04"
+    },
+    {
+      "date": "2026-09-07",
+      "video_ids": [
+        "BV1rGbP6QEwE",
+        "BV1iUbT69EYB"
+      ],
+      "file": "每日总结.md",
+      "line": 54,
+      "operation": "低吸远东、卖新赛、留一鸣；另讲解禁机制。",
+      "method": "低吸、轮动、解禁研究",
+      "knowledge": "一笔卖早别影响下一笔；解禁按公司公告核对。",
+      "anchor": "d-2026-09-07"
+    },
+    {
+      "date": "2026-09-08",
+      "video_ids": [
+        "BV1i6b56VEDR"
+      ],
+      "file": "每日总结.md",
+      "line": 55,
+      "operation": "液冷到目标卖；追农业补涨、留一鸣；低吸兴业。",
+      "method": "轮动、低吸、事件观察",
+      "knowledge": "提前记录解禁日期；竞价抢高会改变买入成本。",
+      "anchor": "d-2026-09-08"
+    },
+    {
+      "date": "2026-09-09",
+      "video_ids": [
+        "BV1tQYx6uERM"
+      ],
+      "file": "每日总结.md",
+      "line": 56,
+      "operation": "少做压异动；一鸣回吐利润；摩尔卖后接回仍弱。",
+      "method": "利空落地、做T、压异动收缩",
+      "knowledge": "监管事件会改变手法适用环境，修复也可能失败。",
+      "anchor": "d-2026-09-09"
+    },
+    {
+      "date": "2026-09-10",
+      "video_ids": [
+        "BV1NNYM6mEpS"
+      ],
+      "file": "每日总结.md",
+      "line": 57,
+      "operation": "退潮后卖中粮、一鸣；仅讨论国芳条件，不接新股高价。",
+      "method": "轮动退出、压异动观察",
+      "knowledge": "方向退潮要重估持仓，条件讨论不代表买入。",
+      "anchor": "d-2026-09-10"
+    },
+    {
+      "date": "2026-09-11",
+      "video_ids": [
+        "BV1apYL6EEoc"
+      ],
+      "file": "每日总结.md",
+      "line": 58,
+      "operation": "低吸云南、急跌接回中粮仍亏；远东挂低未成交。",
+      "method": "急跌低吸",
+      "knowledge": "跌得深不等于选对核心，挂低也可能踏空。",
+      "anchor": "d-2026-09-11"
+    },
+    {
+      "date": "2026-09-13",
+      "video_ids": [
+        "BV1sqYi68ESj"
+      ],
+      "file": "每日总结.md",
+      "line": 59,
+      "operation": "事前明确不接瑞尔特高板。",
+      "method": "反核排除",
+      "knowledge": "连续一字、急拉后下杀，不应与普通恐慌混同。",
+      "anchor": "d-2026-09-13"
+    },
+    {
+      "date": "2026-09-14",
+      "video_ids": [
+        "BV1jWYk6YE1m"
+      ],
+      "file": "每日总结.md",
+      "line": 60,
+      "operation": "卖中粮；缩量偏小细分，不追一致题材与新股。",
+      "method": "轮动、仓位管理",
+      "knowledge": "缩量时同时看方向容量和核心辨识度。",
+      "anchor": "d-2026-09-14"
+    },
+    {
+      "date": "2026-09-15",
+      "video_ids": [
+        "BV1Vde76tE33"
+      ],
+      "file": "每日总结.md",
+      "line": 61,
+      "operation": "买太极、粤桂表现不佳；警惕龙版停牌后的退潮。",
+      "method": "低吸、历史择时",
+      "knowledge": "再强调辨识度，并类比2022年9月缩量杀大票。",
+      "anchor": "d-2026-09-15"
+    },
+    {
+      "date": "2026-09-16",
+      "video_ids": [
+        "BV1tfew6gE4v"
+      ],
+      "file": "每日总结.md",
+      "line": 62,
+      "operation": "光刻胶ETF未成交，转强追容大；低吸新农开发。",
+      "method": "利空落地、低吸",
+      "knowledge": "已知利空看是否提前反映，落地时观察承接。",
+      "anchor": "d-2026-09-16"
+    },
+    {
+      "date": "2026-09-17",
+      "video_ids": [
+        "BV12eeg6bEd2"
+      ],
+      "file": "每日总结.md",
+      "line": 63,
+      "operation": "低吸国芳；明确没买沐曦。",
+      "method": "低吸、解禁利空落地",
+      "knowledge": "别只等更低价格，还要看开盘量能和卖压承接。",
+      "anchor": "d-2026-09-17"
+    },
+    {
+      "date": "2026-09-18",
+      "video_ids": [
+        "BV1Moe16hEgL"
+      ],
+      "file": "每日总结.md",
+      "line": 64,
+      "operation": "仅点评新股暴涨，未见明确买入自述。",
+      "method": "新股观察",
+      "knowledge": "行情涨幅不等于作者实盘收益。",
+      "anchor": "d-2026-09-18"
+    }
+  ],
+  "videos": [
+    {
+      "date": "2026-07-01",
+      "bvid": "BV1JETi6HEKG",
+      "url": "https://www.bilibili.com/video/BV1JETi6HEKG/",
+      "title": "7月第1天，科技回落，老登大反弹",
+      "duration_seconds": 154,
+      "summary": "7/1：科技冲高减仓，转向创新药，下午又低吸科技；自述东山亏损、风华接回、中信建投和华安证券低吸。A计划科技、B计划传统板块与创新药。",
+      "methods": [
+        "01",
+        "04",
+        "09"
+      ],
+      "knowledge": [
+        "科技冲高后转向创新药、传统方向，是同时准备不同市场路径的轮动思路；次日证券未能起到预期作用，需要连续追踪。",
+        "先减仓再低吸与直接追涨不同，记录时要保留原持仓和接回过程。"
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "bvid": "BV1XoTj6QEjw",
+      "url": "https://www.bilibili.com/video/BV1XoTj6QEjw/",
+      "title": "meta昨晚鬼故事，全球科技回调",
+      "duration_seconds": 109,
+      "summary": "7/2：风华早盘触及跌停后等反抽减亏卖出；证券未按预期对冲科技下跌。认为这种冲高回落环境，能日内兑现的板块转债比新买普通股票更适合。",
+      "methods": [
+        "04",
+        "10"
+      ],
+      "knowledge": [
+        "科技下跌时证券也可能一起跌，轮动备选并不天然构成对冲。",
+        "他在约50—62秒讨论板块转债的日内兑现价值；这条材料没有证明他实际完成了一笔对应转债交易。"
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "bvid": "BV1PMTs68Eyt",
+      "url": "https://www.bilibili.com/video/BV1PMTs68Eyt/",
+      "title": "科技冲高回落 下周st10％新规实行",
+      "duration_seconds": 108,
+      "summary": "7/3：自述低吸东山、兆易、深科技、风华，东山反弹较强，风华冲高后回落；强调同样低吸不同标的结果差别很大。",
+      "methods": [
+        "01"
+      ],
+      "knowledge": [
+        "同一天低吸多个科技股，东山与风华表现不同，辨识度和相对强弱影响交易结果。",
+        "盘中反弹与最终兑现要分开记录；冲高回落不能按最高点计算收益。"
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "bvid": "BV1QrTQ6DEHk",
+      "url": "https://www.bilibili.com/video/BV1QrTQ6DEHk/",
+      "title": "周末一堆利好 科技日内巨震",
+      "duration_seconds": 138,
+      "summary": "7/6：兆易先卖后接，接回后继续下跌又加仓，反弹不足；比较江波龙、佰维、德明利，提出优先选有地位的票，选股重于细小操作。",
+      "methods": [
+        "01",
+        "09"
+      ],
+      "knowledge": [
+        "兆易先卖后接、下跌又加，展示了做T和加仓仍可能扩大对弱标的的暴露。",
+        "比较江波龙、佰维、德明利时，他把标的地位放在细小买卖点之前；这是本日明确的选股反思。"
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "bvid": "BV11BM466Edj",
+      "url": "https://www.bilibili.com/video/BV11BM466Edj/",
+      "title": "三星超预期但下跌 指数跌破4000",
+      "duration_seconds": 103,
+      "summary": "7/7：兆易分两次卖出；芯片冲红减仓，韩国继续走弱时不敢接回；关注科技与创新药轮动。",
+      "methods": [
+        "00",
+        "04",
+        "09"
+      ],
+      "knowledge": [
+        "韩国市场继续走弱使他放弃接回，原有做T计划会随外部市场而改变。",
+        "科技与创新药的相对强弱被用作轮动观察，不能把备选方向预设为必涨。"
+      ]
+    },
+    {
+      "date": "2026-07-08",
+      "bvid": "BV1cZMg6XEto",
+      "url": "https://www.bilibili.com/video/BV1cZMg6XEto/",
+      "title": "韩国午后跳水6％，过山车行情",
+      "duration_seconds": 96,
+      "summary": "7/8：芯片冲高先减，回落未接，韩国午后跳水影响其判断；强调成本要足够低才有缓冲。",
+      "methods": [
+        "00",
+        "09"
+      ],
+      "knowledge": [
+        "冲高减仓后并不一定接回；观察到外围跳水时，保留现金也属于执行结果。",
+        "他强调低成本的缓冲作用，但低成本本身不能确保后续反弹。"
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "bvid": "BV1SvMJ6bEoQ",
+      "url": "https://www.bilibili.com/video/BV1SvMJ6bEoQ/",
+      "title": "东山精密涨停！科技全线反弹",
+      "duration_seconds": 48,
+      "summary": "7/9：称市场恐慌时低吸亨通光电，随后反弹；再次强调东山在科技反弹中的强度。",
+      "methods": [
+        "01"
+      ],
+      "knowledge": [
+        "恐慌时低吸亨通与观察东山的修复强度，体现出同时看买点与板块核心的做法。",
+        "辨识度来自反弹中的实际表现，不等于简单选择绝对价格较低的股票。"
+      ]
+    },
+    {
+      "date": "2026-07-10",
+      "bvid": "BV1d9N76oEXv",
+      "url": "https://www.bilibili.com/video/BV1d9N76oEXv/",
+      "title": "科技再次冲高回落，指数再破4000",
+      "duration_seconds": 75,
+      "summary": "7/10：亨通冲高卖出；参与消息刺激的航天，再升科技买到但冲高回落未赚钱，海兰信未买到。",
+      "methods": [
+        "01",
+        "05"
+      ],
+      "knowledge": [
+        "亨通冲高退出与航天消息交易是不同交易链，应分别记录。",
+        "再升买到但回落、海兰信未买到，说明题材判断与成交质量需要分别评价。"
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "bvid": "BV1AaN162Eu9",
+      "url": "https://www.bilibili.com/video/BV1AaN162Eu9/",
+      "title": "韩国熔断-9％，A股百点长阴",
+      "duration_seconds": 110,
+      "summary": "7/13：认为ETF走势较指数便宜而买入，随后继续下跌；买长电与中船特气亦未拉起；承认弱市早买和尾盘跳水的问题。",
+      "methods": [
+        "00",
+        "01"
+      ],
+      "knowledge": [
+        "ETF相对便宜没有阻止继续下跌；极弱阶段买得早仍会承受尾盘卖压。",
+        "长电、中船未立即修复，需要与次日记录连接，不能只截取反弹成功的一天。"
+      ]
+    },
+    {
+      "date": "2026-07-14",
+      "bvid": "BV1LJN96oErm",
+      "url": "https://www.bilibili.com/video/BV1LJN96oErm/",
+      "title": "东山涨停  指数3800多深v",
+      "duration_seconds": 103,
+      "summary": "7/14：中船特气先卖，再在急跌时接回/加仓做T；判断科技转震荡，次日再冲高仍减仓。",
+      "methods": [
+        "01",
+        "09"
+      ],
+      "knowledge": [
+        "中船先卖后在急跌接回，是依托原有仓位的做T过程。",
+        "他把科技定义为震荡，因而倾向冲高再减；持有周期由行情判断影响。"
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "bvid": "BV1eSNe6vEen",
+      "url": "https://www.bilibili.com/video/BV1eSNe6vEen/",
+      "title": "德明利一字地板 科技调 老登拉",
+      "duration_seconds": 143,
+      "summary": "7/15：德明利连续跌停冲击科技，芯片ETF与中船冲高卖出；买上海港湾、巨力索具做航天反核，后者跳水。",
+      "methods": [
+        "02",
+        "04",
+        "05"
+      ],
+      "knowledge": [
+        "德明利连续跌停成为科技情绪观察点；单只核心票的卖压被用于理解板块环境。",
+        "上海港湾与巨力同为航天反核却结果不同，题材相同不代表修复强度相同。"
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "bvid": "BV1STKV6qEZa",
+      "url": "https://www.bilibili.com/video/BV1STKV6qEZa/",
+      "title": "澜起也出利空，失守3900",
+      "duration_seconds": 144,
+      "summary": "7/16：上海港湾自述赚但卖早，巨力索具未赚钱；东山低挂未成交、冲高卖出旧仓；芯片小仓低吸仍被套。",
+      "methods": [
+        "01",
+        "02",
+        "09"
+      ],
+      "knowledge": [
+        "航天反核隔日兑现与芯片低吸仍被套同时出现，不能只汇总成功单。",
+        "东山低挂未成交和冲高卖旧仓必须分开，未成交计划不是新增持仓。"
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "bvid": "BV1kLKn65EnB",
+      "url": "https://www.bilibili.com/video/BV1kLKn65EnB/",
+      "title": "德明利3板，3800失守",
+      "duration_seconds": 168,
+      "summary": "7/17：把连续杀跌与2024年初相比，事前判断德明利大额封单是下跌的关键压力，解除后才有强反弹；早盘减、午后低位又接，仍面对回撤。历史类比在7月21日反弹前已出现。",
+      "methods": [
+        "00",
+        "01",
+        "03"
+      ],
+      "knowledge": [
+        "在反弹前已类比2024年初，并把德明利大额跌停压力解除视为修复的重要条件。",
+        "事前有历史判断不等于精确抄底；本日仍有接回和回撤。"
+      ]
+    },
+    {
+      "date": "2026-07-20",
+      "bvid": "BV1EaKm6EEtL",
+      "url": "https://www.bilibili.com/video/BV1EaKm6EEtL/",
+      "title": "再次高开低走，gjd尾盘护盘",
+      "duration_seconds": 136,
+      "summary": "7/20：本想等低开恐慌下杀，实际高开改变节奏，低吸成本偏高，下午继续跌；计划次日冲高做T，不是一次精确抄到底。",
+      "methods": [
+        "00",
+        "01",
+        "09"
+      ],
+      "knowledge": [
+        "计划中的低开恐慌没有出现，高开改变了进场条件，实际成本高于原设想。",
+        "计划次日冲高做T只是待执行方案，不能写成已完成的回撤修复。"
+      ]
+    },
+    {
+      "date": "2026-07-21",
+      "bvid": "BV1pMKt6AEwh",
+      "url": "https://www.bilibili.com/video/BV1pMKt6AEwh/",
+      "title": "极弱以后必有极强，神级抄底",
+      "duration_seconds": 41,
+      "summary": "7/21盘中：称买入铜冠铜箔、东山、中证2000和芯片相关标的；强调德明利、铜冠铜箔不再封死跌停，压制解除。",
+      "methods": [
+        "00",
+        "01",
+        "02",
+        "03"
+      ],
+      "knowledge": [
+        "他把德明利、铜冠铜箔不再封死跌停视为压制解除，并自述参与个股和指数修复。",
+        "本条是盘中自述，必须与同日收盘及次日兑现合看；不能只凭标题判断最终收益。"
+      ]
+    },
+    {
+      "date": "2026-07-21",
+      "bvid": "BV1HeKb6NE45",
+      "url": "https://www.bilibili.com/video/BV1HeKb6NE45/",
+      "title": "极强反弹够强吧",
+      "duration_seconds": 145,
+      "summary": "7/21收盘：极弱后强反弹，称中证2000ETF约1.18买入，画面收盘1.296；选择继续持有，认为强反弹与阴跌中的一日反抽不同。",
+      "methods": [
+        "00",
+        "03"
+      ],
+      "knowledge": [
+        "他区分极弱后的强修复与阴跌中的一日反抽，因此中证2000选择继续持有。",
+        "自述买价与画面收盘价能说明他的叙述，不能替代完整成交与持仓数量。"
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "bvid": "BV1WNgr67Esm",
+      "url": "https://www.bilibili.com/video/BV1WNgr67Esm/",
+      "title": "韩国午后跳水6％",
+      "duration_seconds": 142,
+      "summary": "7/22：自述铜冠铜箔分批兑现、东山竞价卖出、芯片午前卖出；中证2000继续做T，韩国跳水影响减仓时机。",
+      "methods": [
+        "00",
+        "02",
+        "03",
+        "09"
+      ],
+      "knowledge": [
+        "铜冠、东山等个股分批或竞价兑现，中证2000则继续做T，显示不同对象的持有周期不同。",
+        "韩国市场跳水影响减仓时机，退出不仅由本股日内涨幅决定。"
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "bvid": "BV1tRgQ6XEUU",
+      "url": "https://www.bilibili.com/video/BV1tRgQ6XEUU/",
+      "title": "中证2000涨2％ 小票反弹",
+      "duration_seconds": 138,
+      "summary": "7/23：偏好中证2000代表的小市值板块，认为科技大票转震荡、资金反复做T；长鑫上市不愿首日竞价追高，考虑后续再观察。",
+      "methods": [
+        "03",
+        "04",
+        "11"
+      ],
+      "knowledge": [
+        "他将小市值修复与科技大票震荡区分开，用于选择指数和风格。",
+        "对长鑫首日竞价追高保持保留，讨论参与机会不代表已经交易。"
+      ]
+    },
+    {
+      "date": "2026-07-24",
+      "bvid": "BV1EBgY6QEvS",
+      "url": "https://www.bilibili.com/video/BV1EBgY6QEvS/",
+      "title": "1.9万亿，资金都在等长鑫落地",
+      "duration_seconds": 179,
+      "summary": "7/24：长鑫上市前缩量，早盘冲高减掉约一半相关仓位；强调这种外围大跌和上市事件叠加的日子，上午卖后不急于上午接。视频中持仓成本变化不能当作独立收益。",
+      "methods": [
+        "00",
+        "09",
+        "11"
+      ],
+      "knowledge": [
+        "外围下跌与新股上市叠加时，他选择冲高先减仓，并延后接回观察。",
+        "持仓成本显示变化不能直接当作单笔利润，需要原仓、卖出与回补数据。"
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "bvid": "BV1YF3c6HE3m",
+      "url": "https://www.bilibili.com/video/BV1YF3c6HE3m/",
+      "title": "长鑫科技，荣登A股第一市值",
+      "duration_seconds": 228,
+      "summary": "7/27：长鑫首日急跌时想买但继续等待，明确踏空；反省应重新比较计划外价格下的最好/最坏情况。中证2000仍按修复行情处理。",
+      "methods": [
+        "00",
+        "03",
+        "11"
+      ],
+      "knowledge": [
+        "长鑫首日未按预想价格买到，反映对固定买价的锚定；作者复盘的是踏空。",
+        "当实际情景偏离原计划，他提出重新比较最好和最坏情况，而非只等原挂价。"
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "bvid": "BV1ng3i6aEwr",
+      "url": "https://www.bilibili.com/video/BV1ng3i6aEwr/",
+      "title": "韩国-11％，熔断2次",
+      "duration_seconds": 92,
+      "summary": "7/28：长鑫低开幅度未达预想未买；自述排海立成交一点；中证2000只跌一个多点，未达到愿意加仓的位置。",
+      "methods": [
+        "03",
+        "11"
+      ],
+      "knowledge": [
+        "长鑫低开幅度不够、中证2000跌幅未到其加仓位置，均体现等待价格条件。",
+        "没有达到条件而不买，应与追涨和实际亏损分开记录；海立只自述成交少量。"
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "bvid": "BV1sv3C6tEpN",
+      "url": "https://www.bilibili.com/video/BV1sv3C6tEpN/",
+      "title": "韩国比15年跌的都快",
+      "duration_seconds": 178,
+      "summary": "7/29：自述分批低吸芯片，押外围超跌修复；同时判断小盘和微盘受外围影响较小，倾向中证2000的弹性。",
+      "methods": [
+        "00",
+        "03",
+        "04",
+        "09"
+      ],
+      "knowledge": [
+        "芯片低吸押注外围修复，而中证2000代表较少受外围影响的小盘方向，是两种不同逻辑。",
+        "分批低吸只描述执行方式，本条不足以确定总仓位和失败退出线。"
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "bvid": "BV1S73t6REpi",
+      "url": "https://www.bilibili.com/video/BV1S73t6REpi/",
+      "title": "长鑫还在抱团  易中天大跌",
+      "duration_seconds": 126,
+      "summary": "7/30：芯片竞价减掉，认为长鑫交易吸引了原科技资金；中际旭创买入后继续跌，低点没有继续加。作者关于资金来源的解释未经独立核实。",
+      "methods": [
+        "01",
+        "04",
+        "09",
+        "11"
+      ],
+      "knowledge": [
+        "中际买后继续下跌、低点未再加，说明低吸判断仍会失效或执行犹豫。",
+        "长鑫吸引原科技资金是作者对轮动的解释，未通过资金账户独立验证。"
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "bvid": "BV1pVGA65EJM",
+      "url": "https://www.bilibili.com/video/BV1pVGA65EJM/",
+      "title": "长鑫跳水，硬件冲高回落",
+      "duration_seconds": 90,
+      "summary": "7/31：中际旭创冲高分两笔卖出；遗憾前一天未在更低处加仓。另追小盘股后冲高回落到成本，未能留下盘中浮盈。",
+      "methods": [
+        "01",
+        "09"
+      ],
+      "knowledge": [
+        "中际冲高分批卖出，与前日低吸组成可追踪的交易链；实际总收益仍缺数量数据。",
+        "追小票后回到成本和遗憾未低位加仓，提示复盘要区分预设计划与事后理想买点。"
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "bvid": "BV13YM96fE11",
+      "url": "https://www.bilibili.com/video/BV13YM96fE11/",
+      "title": "小票反弹，科技被长鑫吸血",
+      "duration_seconds": 88,
+      "summary": "8/3：中证2000冲高卖了一些，但未低位接回，自称T白做；科技大票与小票分化，资金轮动判断延续。",
+      "methods": [
+        "03",
+        "04",
+        "09"
+      ],
+      "knowledge": [
+        "中证2000卖出后没有接回，作者称T白做；做T并非天然增加收益。",
+        "科技大票与小盘分化延续，是他继续偏小盘的环境观察。"
+      ]
+    },
+    {
+      "date": "2026-08-04",
+      "bvid": "BV1VPuw6DEqk",
+      "url": "https://www.bilibili.com/video/BV1VPuw6DEqk/",
+      "title": "中证2000新高",
+      "duration_seconds": 144,
+      "summary": "8/4：中证2000冲高做T、下午接回，继续看小微盘持续性；中际旭创高开未追，地板反核也有未成交。关于自行分散买微盘更优只是其设想，未见完整验证。",
+      "methods": [
+        "02",
+        "03",
+        "09"
+      ],
+      "knowledge": [
+        "中证2000冲高减、回落接回，本日有完整的做T自述。",
+        "未成交的反核和分散买微盘的设想需与实际操作区分，后者尚无完整验证。"
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "bvid": "BV1FfMk6VE7v",
+      "url": "https://www.bilibili.com/video/BV1FfMk6VE7v/",
+      "title": "中证2000继续上涨 科技低开高走",
+      "duration_seconds": 140,
+      "summary": "8/5：中证2000走强时积极做小票，自述低吸创业黑马，依据之一是同题材传智教育仍顶一字；还参与中微、万集、ST交昂，强调竞价和连续交易买入成本差异。",
+      "methods": [
+        "01",
+        "02",
+        "03"
+      ],
+      "knowledge": [
+        "创业黑马低吸的依据包含传智教育仍顶一字与小盘走强，急跌应放在板块环境里解释。",
+        "竞价与连续交易的成本差别会影响后续余地，不能只用最低价描述可成交买点。"
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "bvid": "BV1Ydu76cEw5",
+      "url": "https://www.bilibili.com/video/BV1Ydu76cEw5/",
+      "title": "中证2000五连阳 磷化铟3板",
+      "duration_seconds": 158,
+      "summary": "8/6：自述前一日创业黑马、万集等小票竞价退出；数字货币核心走强后追相关标的，还跟随6G消息。明确将极弱后强修复主要用于小盘规律，未保证大科技同样修复。",
+      "methods": [
+        "02",
+        "03",
+        "05"
+      ],
+      "knowledge": [
+        "前日小票竞价退出与当日跟随数字货币、6G消息是不同交易阶段。",
+        "他把极弱后的强修复主要用于小盘，不保证大科技也按同样路径修复。"
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "bvid": "BV1Qfub6ZEFR",
+      "url": "https://www.bilibili.com/video/BV1Qfub6ZEFR/",
+      "title": "中证2000 6连阳  大获全胜",
+      "duration_seconds": 96,
+      "summary": "8/7：继续持中证2000与小盘行情，参与联创光电（原画面600363）急跌低吸；给出减仓观察条件：连阳后的首次阴线出现，后续又无法反包、明显走弱，再考虑减仓。",
+      "methods": [
+        "00",
+        "01",
+        "03"
+      ],
+      "knowledge": [
+        "连阳后首阴只是观察起点；他进一步看后续能否反包及是否明显走弱，才讨论减仓。",
+        "联创光电急跌低吸与中证2000底仓并行，个股交易不能替代指数持仓记录。"
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "bvid": "BV1oZud6VEMD",
+      "url": "https://www.bilibili.com/video/BV1oZud6VEMD/",
+      "title": "中证2000  7连阳 材料冲高跳水",
+      "duration_seconds": 150,
+      "summary": "8/10：明确中证2000保留两成多ETF底仓，冲高考虑做T；云南锗业因期望过高未及时卖，利润回吐；接回中国电影作事件预期埋伏。",
+      "methods": [
+        "03",
+        "05",
+        "09"
+      ],
+      "knowledge": [
+        "中证2000保留两成多底仓，与冲高做T同时存在，说明不是所有仓位都做隔日兑现。",
+        "云南锗业因预期过高而回吐利润，中国电影则是事件预期埋伏，退出预期需要分别追踪。"
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "bvid": "BV1oWuq69Ecf",
+      "url": "https://www.bilibili.com/video/BV1oWuq69Ecf/",
+      "title": "2000冲高回落，假阳8连阳",
+      "duration_seconds": 211,
+      "summary": "8/11：中证2000冲红先减部分，随后卖早；低吸神剑。讨论某独立票的赔率但明确自己未买，不能记为其地天板盈利。",
+      "methods": [
+        "01",
+        "03",
+        "09"
+      ],
+      "knowledge": [
+        "中证2000先减后继续涨，卖早是做T的实际代价之一。",
+        "对独立票赔率的讨论没有转化为自述买入，不能将其地天板记入实盘成绩。"
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "bvid": "BV1xbgG6MEzp",
+      "url": "https://www.bilibili.com/video/BV1xbgG6MEzp/",
+      "title": "2000小票九阳神功",
+      "duration_seconds": 172,
+      "summary": "8/12：中证2000直接上行，追回昨日减掉部分；明确通常只在极弱后买中证2000，平时更多做趋势大票。另做白银LOF溢价收敛后的反弹，属于不同交易类型。",
+      "methods": [
+        "03",
+        "08",
+        "09"
+      ],
+      "knowledge": [
+        "他明确通常在极弱后才做中证2000，平时更多做趋势大票；这是环境选择而非永久偏好。",
+        "白银LOF交易着眼于溢价被压缩后的反弹，与小盘修复属于不同机制；相关退市消息未在本研究中核验。"
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "bvid": "BV1CNgn6dESC",
+      "url": "https://www.bilibili.com/video/BV1CNgn6dESC/",
+      "title": "高开尾盘跳水，2000止步10连阳",
+      "duration_seconds": 101,
+      "summary": "8/13：中证2000高开减掉前日追回的部分；首阴出现后计划等恐慌再接。火炬电子买后冲涨停又回落；白银套利及时获利退出。",
+      "methods": [
+        "00",
+        "03",
+        "08",
+        "09"
+      ],
+      "knowledge": [
+        "中证2000高开卖掉追回部分，首阴后计划等恐慌再接，是对连续上涨阶段变化的处理。",
+        "火炬冲板后回落和白银及时退出形成对照：纸面涨幅与实际兑现需要分记。"
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "bvid": "BV1YJgN6cES4",
+      "url": "https://www.bilibili.com/video/BV1YJgN6cES4/",
+      "title": "指数下杀后深v 下周冲高逐步减仓了",
+      "duration_seconds": 115,
+      "summary": "8/14：中证2000未完全反包前日阴线，判断上方空间减少，准备下周冲高逐步减仓；比较火炬与更强标的，另做白银LOF反弹。",
+      "methods": [
+        "00",
+        "03",
+        "08"
+      ],
+      "knowledge": [
+        "首阴后未完全反包，被用作空间减少、下周冲高逐步减仓的观察依据。",
+        "比较火炬与更强标的，延续了同方向优先辨识度的选股原则。"
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "bvid": "BV14jbv6nEdw",
+      "url": "https://www.bilibili.com/video/BV14jbv6nEdw/",
+      "title": "聊聊这轮中证2000和22 24年对比",
+      "duration_seconds": 246,
+      "summary": "8/17：主要对照2024年2月急跌后连阳、首阴尾盘跳水、再进入补涨震荡的路径，据此准备冲高减仓保利润。口述和旧评论写2月24日，但约33秒实际K线是2024/02/28，按画面校正。另比较2022年4月底至8月中旬，认为其起点更低、月份处于5—7月，本轮有压力，不预期同样持久。火炬成本附近出、买低位京东方等；接近必胜的说法无完整数据支持。",
+      "methods": [
+        "00",
+        "03"
+      ],
+      "knowledge": [
+        "主对照为2024年2月急跌、连阳、首阴后转补涨震荡；口述2月24日与展示K线不符，按画面校正为2024/02/28。",
+        "另讨论2022年4月底至8月中旬，认为起点更低、5—7月条件更好，本轮有压力，不预期同样持久。",
+        "据此在主升后的补涨阶段逐步减仓；作者接近必胜的表述没有完整数据支持。"
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "bvid": "BV1zv8u6NEt1",
+      "url": "https://www.bilibili.com/video/BV1zv8u6NEt1/",
+      "title": "宇树明日上市",
+      "duration_seconds": 166,
+      "summary": "8/18：云南锗业冲高全部卖，京东方与前日反核也卖；软件消息后参与竞业达。宇树上市前计划只在定价和下杀合适时参与；中证2000仍准备逢高减。",
+      "methods": [
+        "02",
+        "03",
+        "05",
+        "11"
+      ],
+      "knowledge": [
+        "云南、京东方及反核持仓冲高兑现，软件消息后另开竞业达，旧仓退出和新题材入场应分开。",
+        "宇树上市前谈定价和急跌条件只是计划，后续8/20的亏损披露才补足实际参与信息。"
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "bvid": "BV1qR876sEdR",
+      "url": "https://www.bilibili.com/video/BV1qR876sEdR/",
+      "title": "太狠了，宇树上市机器人板块跌停",
+      "duration_seconds": 164,
+      "summary": "8/19：认为宇树上市、机器人与航天兑现造成普跌；午间低吸中证2000仍未赚钱，准备次日处理。视频承认当日亏损，次日又披露新股参与亏损。",
+      "methods": [
+        "00",
+        "03",
+        "06",
+        "11"
+      ],
+      "knowledge": [
+        "他把机器人、航天走弱归因于上市预期兑现；指数回落低吸也未立即获利。",
+        "本日与次日应连读，宇树首日亏损在8/20补充披露，不能只据当日摘要遗漏。"
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "bvid": "BV1sybf6EEp4",
+      "url": "https://www.bilibili.com/video/BV1sybf6EEp4/",
+      "title": "疫苗股集体一字，科技冲高回落",
+      "duration_seconds": 155,
+      "summary": "8/20：疫苗消息驱动买康泰生物、华兰疫苗，并承认宇树首日参与亏损；卖天通。约38—55秒明确说因每年8月底至9月、国庆前空间通常有限，减掉前日新增中证2000两笔仓位。爱丽竞价承接强但挂晚未买到，对身位靠后的一鸣更谨慎。",
+      "methods": [
+        "00",
+        "02",
+        "03",
+        "05",
+        "11"
+      ],
+      "knowledge": [
+        "约38—55秒明确将8月底至9月空间通常有限的经验判断用于减掉前日新增中证2000仓位。",
+        "疫苗题材第一天套利与第二天高开追入被区别对待，隔夜兑现要看8/21结果。",
+        "爱丽承接强但没买到；身位靠后的一鸣被认为更有风险，反核选择不只比较跌幅。"
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "bvid": "BV12D8q6ZEwF",
+      "url": "https://www.bilibili.com/video/BV12D8q6ZEwF/",
+      "title": "医药卧倒，科技轮动回流，缩量1.9万亿",
+      "duration_seconds": 137,
+      "summary": "8/21：康泰从前日约8%浮盈变成自述亏约2%卖出；宇树再度低位买入后准备下周冲高走。强调先评估最坏损失与盈亏比，不能只看胜率；完整新股交易净盈亏未知。",
+      "methods": [
+        "00",
+        "05",
+        "11"
+      ],
+      "knowledge": [
+        "康泰前日浮盈到次日亏损退出，说明买入分享卡不能当作完整交易业绩。",
+        "他强调先评估最坏损失与盈亏比；宇树再次买入后只提出退出计划，累计净盈亏仍未知。"
+      ]
+    },
+    {
+      "date": "2026-08-24",
+      "bvid": "BV1yg8v67E8K",
+      "url": "https://www.bilibili.com/video/BV1yg8v67E8K/",
+      "title": "长江存储辅导通过，概念股高开直奔跌停",
+      "duration_seconds": 150,
+      "summary": "8/24：参与开开实业、宝泰隆等恐慌修复，自述传智教育先买早后再加；宇树修复后退出。提醒事件兑现和连续跌停并不自动形成可靠买点。",
+      "methods": [
+        "01",
+        "02",
+        "06",
+        "11"
+      ],
+      "knowledge": [
+        "开开、宝泰隆等属于恐慌修复尝试，传智买早后加仓提示反核也会提前。",
+        "事件兑现或连续跌停都不自动形成买点；宇树修复退出不等于整个新股交易链净盈利。"
+      ]
+    },
+    {
+      "date": "2026-08-25",
+      "bvid": "BV1GAhV6qEuD",
+      "url": "https://www.bilibili.com/video/BV1GAhV6qEuD/",
+      "title": "市场缩量反弹 4000家红盘",
+      "duration_seconds": 113,
+      "summary": "8/25：开开卖早，传智教育分两次卖出；再低吸天通。观察到板上大额卖出后预期次日低开，所谓老庄归因未经独立核实。",
+      "methods": [
+        "01",
+        "02",
+        "09"
+      ],
+      "knowledge": [
+        "开开卖早、传智分批卖与再低吸天通，反映他在修复中持续兑现和换标的。",
+        "板上大额卖出被用于担忧次日低开；卖方身份只是作者解释，不能据此确认所谓老庄。"
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "bvid": "BV1Eo896fEP2",
+      "url": "https://www.bilibili.com/video/BV1Eo896fEP2/",
+      "title": "证券护盘，今晚英伟达出财报",
+      "duration_seconds": 106,
+      "summary": "8/26：天通竞价卖出，认为前日涨停出现大额兑现；养元低吸效果弱，反省事件预期兑现后的票难拉；对神奇制药压异动仍谨慎。",
+      "methods": [
+        "00",
+        "01",
+        "06",
+        "07"
+      ],
+      "knowledge": [
+        "天通竞价卖出承接了前日对大额兑现的观察，属于跨日调整。",
+        "养元表现弱促使他反省事件预期已经兑现的票；对神奇压异动仍是谨慎观察。"
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "bvid": "BV1sitA6WE2N",
+      "url": "https://www.bilibili.com/video/BV1sitA6WE2N/",
+      "title": "金健米业  神奇制药 妖股压异动玩法",
+      "duration_seconds": 344,
+      "summary": "8/28：自述尾盘买金健米业，依靠压异动条件与神奇制药的赚钱效应；讨论集合竞价限价和排队风险，并承认即使避开数值阈值仍有停牌风险。",
+      "methods": [
+        "00",
+        "07"
+      ],
+      "knowledge": [
+        "金健尾盘买入依赖作者对压异动条件及同类赚钱效应的判断，是独立于普通急跌低吸的条件交易。",
+        "他讨论竞价成交和排队，也承认避开数值阈值不等于消除停牌风险；本笔结果需接看8/31。"
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "bvid": "BV1ijtt6VEhC",
+      "url": "https://www.bilibili.com/video/BV1ijtt6VEhC/",
+      "title": "地产高开大套，科技低开高走",
+      "duration_seconds": 140,
+      "summary": "8/31：云南竞价抢高未买，买长电；8/28金健压异动买入后，本日期待高开退出，但竞价末端回落，自己竞价卖后价格又回升，自认卖出失误。",
+      "methods": [
+        "01",
+        "07"
+      ],
+      "knowledge": [
+        "金健竞价末端回落、卖后又涨，是8/28压异动交易的实际退出反馈。",
+        "竞价抢高使云南未买到，说明计划买价、最终开价和实际成交不能混在一起。"
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "bvid": "BV1DntG6sEMY",
+      "url": "https://www.bilibili.com/video/BV1DntG6sEMY/",
+      "title": "资金回流农业医药 燧原明日打新",
+      "duration_seconds": 158,
+      "summary": "9/1：反核百花医药、随后跟神奇制药，卖前日长电；光大嘉宝低吸效果弱，自认不如同板块其他选择。锦龙即使日内反弹也担心次日低开覆盖利润而不买。",
+      "methods": [
+        "00",
+        "01",
+        "02",
+        "04"
+      ],
+      "knowledge": [
+        "百花反核和神奇跟随都依赖当时农业医药资金回流，光大嘉宝表现弱再次涉及同板块选股。",
+        "锦龙即使日内反弹，他仍因担忧次日低开吃掉利润而放弃，关注的是隔夜后能否兑现。"
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "bvid": "BV192tJ6SEmZ",
+      "url": "https://www.bilibili.com/video/BV192tJ6SEmZ/",
+      "title": "市场缩量调整 农业大面，深中华A分歧",
+      "duration_seconds": 140,
+      "summary": "9/2：百花竞价卖，低挂未接回不追；神奇分批卖，自述带走不足4%；另做铜缆、太极。对深中华A压异动指出软件算法分歧，需要等待正式公告。",
+      "methods": [
+        "02",
+        "07",
+        "09"
+      ],
+      "knowledge": [
+        "百花竞价卖、低挂未接回不追，神奇分批卖，体现对成交条件和兑现节奏的控制。",
+        "深中华A异动计算存在软件分歧时，他强调等待正式公告，不能只按某软件结论下判断。"
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "bvid": "BV1zFtd6ZE2v",
+      "url": "https://www.bilibili.com/video/BV1zFtd6ZE2v/",
+      "title": "韩国午后巨震",
+      "duration_seconds": 111,
+      "summary": "9/3：金信诺冲高卖，太极未及时卖转为亏损退出；农业消息出现时低吸已回落的高辨识度金健米业，没有继续追高加仓；认为国庆前难有大量能，在不足两万亿成交额下自述两至三成仓位，这是当时仓位，不是固定的历年9月规则。",
+      "methods": [
+        "00",
+        "01",
+        "04",
+        "05"
+      ],
+      "knowledge": [
+        "金健同时具备农业辨识度、消息关联和此前回落，低吸依据是多个条件组合。",
+        "不足两万亿成交额下自述两至三成仓位，并预期国庆前难放量；这是当时仓位，不是固定月份公式。",
+        "太极由未及时卖转为亏损退出，说明有退出思路不等于每笔都执行到位。"
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "bvid": "BV1nnti6kEdT",
+      "url": "https://www.bilibili.com/video/BV1nnti6kEdT/",
+      "title": "科技高开低走，资金回流农业消费",
+      "duration_seconds": 87,
+      "summary": "9/4：金健低开后卖得不好，转买新赛和一鸣；另一笔科技持仓高开未立即走，后续冲高才出；认为题材开盘先下杀再买成本更好。",
+      "methods": [
+        "01",
+        "04",
+        "05"
+      ],
+      "knowledge": [
+        "金健卖得不好后转新赛、一鸣，轮动中仍需要比较具体标的强弱。",
+        "他认为题材先下杀再介入有成本优势，但本日没有提供可机械照搬的固定跌幅。"
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "bvid": "BV1rGbP6QEwE",
+      "url": "https://www.bilibili.com/video/BV1rGbP6QEwE/",
+      "title": "科技大反弹，中际旭创10％",
+      "duration_seconds": 104,
+      "summary": "9/7日常：自述低吸远东；新赛看龙头跳水先卖，随后龙头迅速回封导致卖早；一鸣因另一个票卖早而多留，反而未拉起。两笔之间有明显情绪互相影响。",
+      "methods": [
+        "00",
+        "01",
+        "04"
+      ],
+      "knowledge": [
+        "新赛因观察龙头跳水而卖出，龙头随后回封导致卖早，外部信号本身会变化。",
+        "一笔卖早影响另一笔多留，显示交易之间的情绪传导，不能假定每笔都独立执行原计划。"
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "bvid": "BV1iUbT69EYB",
+      "url": "https://www.bilibili.com/video/BV1iUbT69EYB/",
+      "title": "摩尔线程-20％  新股解禁5个时间点",
+      "duration_seconds": 125,
+      "summary": "9/7专题：讲解新股不同批次解禁时点，以摩尔线程为例；属于事件机制讨论，没有明确自述当日买入。解禁比例和期限应以各公司公告核验，不能一概套用。",
+      "methods": [
+        "06"
+      ],
+      "knowledge": [
+        "本条是新股解禁机制专题，讨论不同批次和时间点，没有明确自述当日买入。",
+        "用于建立解禁事件观察清单；具体比例、日期及适用条款仍应逐公司公告核验。"
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "bvid": "BV1i6b56VEDR",
+      "url": "https://www.bilibili.com/video/BV1i6b56VEDR/",
+      "title": "韩国午后跳水，农业股高潮",
+      "duration_seconds": 194,
+      "summary": "9/8：前一日液冷票按预期目标卖出；追农业低位补涨，保留一鸣；自述竞价低吸兴业科技，实际开价被抢高。并提前指出沐曦9/17解禁。",
+      "methods": [
+        "01",
+        "04",
+        "06"
+      ],
+      "knowledge": [
+        "液冷按目标兑现、农业低位补涨和竞价低吸属于不同交易链，不能合并成同一笔胜负。",
+        "提前指出沐曦9/17解禁，说明后续利空落地观察具有事前事件线索。"
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "bvid": "BV1tQYx6uERM",
+      "url": "https://www.bilibili.com/video/BV1tQYx6uERM/",
+      "title": "龙版传媒停牌，又是AI应用受伤",
+      "duration_seconds": 148,
+      "summary": "9/9：龙版停牌后降低对压异动的参与意愿；试中粮，一鸣未及时卖出导致利润回吐；摩尔线程前日低吸、当日卖出后又接回但表现弱。",
+      "methods": [
+        "00",
+        "06",
+        "07",
+        "09"
+      ],
+      "knowledge": [
+        "龙版停牌使他降低压异动参与意愿，制度事件会反过来改变策略使用频率。",
+        "摩尔前日低吸、当日卖后又接仍弱，利空事件之后也不保证持续修复。"
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "bvid": "BV1NNYM6mEpS",
+      "url": "https://www.bilibili.com/video/BV1NNYM6mEpS/",
+      "title": "1.6万亿，又缩2000亿，明天燧原上市",
+      "duration_seconds": 135,
+      "summary": "9/10：察觉农业消费退潮后卖中粮、一鸣；讲国芳压异动的条件但未明确表示自己买入；强调不愿接次日新股首发高价。",
+      "methods": [
+        "00",
+        "04",
+        "07",
+        "11"
+      ],
+      "knowledge": [
+        "农业消费退潮时退出中粮、一鸣，说明方向持续性是持仓条件之一。",
+        "国芳压异动只是条件讨论，未明确自述本日买入；不愿接新股首发高价也不能记为交易。"
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "bvid": "BV1apYL6EEoc",
+      "url": "https://www.bilibili.com/video/BV1apYL6EEoc/",
+      "title": "油价突破100，3900失守",
+      "duration_seconds": 116,
+      "summary": "9/11：大盘急跌时自述买云南锗业；远东因继续等更低位置未买到；中粮前日卖后在急跌接回，收盘仍亏，证明跌深并不等于接对核心。",
+      "methods": [
+        "00",
+        "01"
+      ],
+      "knowledge": [
+        "云南低吸、中粮急跌接回仍亏和远东挂低踏空并存，恐慌中价格低并不代表选对核心。",
+        "不能用远东后来的走势为未成交计划计算利润。"
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "bvid": "BV1sqYi68ESj",
+      "url": "https://www.bilibili.com/video/BV1sqYi68ESj/",
+      "title": "A股最高板，是三板组  明天不要接盘",
+      "duration_seconds": 144,
+      "summary": "9/13：事前提醒不要接瑞尔特高板，列连续大单一字、急速拉板后派发的风险；这类跌停/反抽不属于他愿意参与的普通恐慌低吸。身份归因只是作者判断。",
+      "methods": [
+        "00",
+        "01",
+        "02"
+      ],
+      "knowledge": [
+        "事前明确不接瑞尔特，说明连续跌停或急跌并不是通用反核信号。",
+        "连续大单一字和急速拉板后的风险是他的排除依据；背后资金身份未独立证实。"
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "bvid": "BV1jWYk6YE1m",
+      "url": "https://www.bilibili.com/video/BV1jWYk6YE1m/",
+      "title": "1.6万亿，成交再创新低，周三晚美利率决议",
+      "duration_seconds": 123,
+      "summary": "9/14：自述卖出上周买的中粮，反省应优先吸龙头；缩量环境偏小细分而非大市值主线；不追过于一致的网络安全题材、不愿贸然参与新股。",
+      "methods": [
+        "00",
+        "01",
+        "04",
+        "05",
+        "11"
+      ],
+      "knowledge": [
+        "中粮退出后的反思是优先吸龙头，缩量时偏小细分方向，标的地位与资金容量共同影响选择。",
+        "对网络安全一致预期不追、对新股谨慎，说明有消息也可能选择不参与。"
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "bvid": "BV1Vde76tE33",
+      "url": "https://www.bilibili.com/video/BV1Vde76tE33/",
+      "title": "半导体冲高回落，宁德闪崩-6％",
+      "duration_seconds": 107,
+      "summary": "9/15：买太极、粤桂后表现不佳，比较固态电池核心与自身弱标的，再次强调辨识度；重视龙版停牌后的情绪退潮。约89—98秒明确类比2022年9月，指出当时同样缩量、大票接连下跌。",
+      "methods": [
+        "00",
+        "01",
+        "04",
+        "07"
+      ],
+      "knowledge": [
+        "太极、粤桂表现不佳时再次比较核心标的，辨识度是反复出现的选股约束。",
+        "约89—98秒把当前缩量、大票接连下跌与2022年9月类比，月份与历史阶段都影响其判断。"
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "bvid": "BV1tfew6gE4v",
+      "url": "https://www.bilibili.com/video/BV1tfew6gE4v/",
+      "title": "今晚加息，市场博弈利空出尽 科技大涨",
+      "duration_seconds": 123,
+      "summary": "9/16：光刻胶ETF下杀不足未成交，创业板转强附近追容大感光；自述低吸新农开发。围绕已预期利空的落地与次日解禁做观察，结尾转写有重复须不引用。",
+      "methods": [
+        "00",
+        "01",
+        "06"
+      ],
+      "knowledge": [
+        "围绕已预期利空落地与次日解禁做观察，重点是利空是否提前反映，而非新闻字面利空就卖。",
+        "ETF下杀不足未成交、转强后追容大是不同执行路径；结尾识别重复未用作结论。"
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "bvid": "BV12eeg6bEd2",
+      "url": "https://www.bilibili.com/video/BV12eeg6bEd2/",
+      "title": "沐曦利空落地 日内20％+ 心碎了",
+      "duration_seconds": 223,
+      "summary": "9/17：自述低吸国芳集团；明确沐曦未买，反省解禁前已大跌仍只等更深跌幅，忽略开盘放量且砸不下去；提出以后同时看时间与承接。",
+      "methods": [
+        "01",
+        "06"
+      ],
+      "knowledge": [
+        "实际自述买入的是国芳，沐曦明确未买，标题中的日内涨幅不能记为他的盈利。",
+        "沐曦案例中，他反思解禁前已跌却只等更低价，今后还应观察开盘时间、成交量及卖压承接；这是事后修正。"
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "bvid": "BV1Moe16hEgL",
+      "url": "https://www.bilibili.com/video/BV1Moe16hEgL/",
+      "title": "新股一天涨250％，市值盘中突破2600亿",
+      "duration_seconds": 50,
+      "summary": "9/18：记录新股日内暴涨，未发现明确自述买入，不能算作他的盈利交易。",
+      "methods": [
+        "11"
+      ],
+      "knowledge": [
+        "本条记录新股日内暴涨，没有找到明确自述买入，应归为行情观察。",
+        "市场最大涨幅、作者是否参与和最终收益是三个不同问题，不能从标题推导交易成绩。"
+      ]
+    }
+  ],
+  "daily_format": "single_markdown_table",
+  "daily_file": "每日总结.md",
+  "daily_columns": [
+    "日期",
+    "今日操作",
+    "对应手法",
+    "知识点"
+  ],
+  "update_convention": "每天一行，同日多视频合并；只更新同一个每日总结.md，操作简记、知识点一句。",
+  "path_format": "relative_to_repository_root"
+}
